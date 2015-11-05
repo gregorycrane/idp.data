@@ -20,12 +20,16 @@
                </msIdentifier>
                <physDesc>
                   <objectDesc>
-                     <p type="bookForm">stone</p>
                      <supportDesc>
                         <support>
                            <material>stone</material>
                         </support>
                      </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>stone</p>
+                        </layout>
+                     </layoutDesc>
                   </objectDesc>
                </physDesc>
                <history>

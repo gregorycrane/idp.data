@@ -24,7 +24,12 @@
                            <material>paper</material>
                         </support>
                      </supportDesc>
-                     </objectDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p/>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
                   </physDesc>
                <history>
                   <origin>

@@ -22,8 +22,7 @@
                   </idno>
                </msIdentifier>
                <physDesc>
-                  <objectDesc form="codex (6 foll.)">
-                     <p type="bookForm">parchment codex (6 foll.) (columns: 2, written lines: 31, pagination: 106)</p>
+                  <objectDesc form="codex">
                      <supportDesc>
                         <support>
                            <material>parchment</material>
@@ -33,7 +32,9 @@
                         </foliation>
                      </supportDesc>
                      <layoutDesc>
-                        <layout columns="2" writtenLines="31"/>
+                        <layout columns="1" writtenLines="31">
+                           <p>parchment codex (6 foll.) (columns: 2, written lines: 31, pagination: 106)</p>
+                        </layout>
                      </layoutDesc>
                   </objectDesc>
                </physDesc>
