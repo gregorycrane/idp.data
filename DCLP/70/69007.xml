@@ -78,19 +78,17 @@
    </teiHeader>
    <text>
       <body>
-         <div type="bibliography" subtype="illustrations">
-            <p>
-               <bibl type="illustration">Greek Medical Papyri 1, pl.VI</bibl>
-            </p>
-         </div>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://www.library.yale.edu/beinecke"/>
-               </figure>
-            </p>
-         </div>
+         
+         
          <div type="edition" xml:space="preserve"/>
+         <div type="bibliography" subtype="illustrations">
+            <listBibl>
+               <bibl type="illustration">Greek Medical Papyri 1, pl.VI</bibl>
+               <bibl>
+                  <ptr target="http://www.library.yale.edu/beinecke"/>
+               </bibl>
+            </listBibl>
+         </div>
       </body>
    </text>
 </TEI>

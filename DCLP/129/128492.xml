@@ -78,13 +78,7 @@
    </teiHeader>
    <text>
       <body>
-         <div type="figure">
-            <p>
-               <figure>
-                  <graphic url="http://daten.digitale-sammlungen.de/~db//0003//bsb00035053/images/"/>
-               </figure>
-            </p>
-         </div>
+         
          <div type="bibliography" subtype="ancientEdition">
             <listBibl>
                <bibl type="publication" subtype="ancient">
@@ -102,6 +96,13 @@
             </listBibl>
          </div>
          <div type="edition" xml:space="preserve" xml:lang="la"/>
+         <div type="bibliography" subtype="illustrations">
+            <listBibl>
+               <bibl>
+                  <ptr target="http://daten.digitale-sammlungen.de/~db//0003//bsb00035053/images/"/>
+               </bibl>
+            </listBibl>
+         </div>
       </body>
    </text>
 </TEI>
